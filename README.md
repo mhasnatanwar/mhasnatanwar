@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/VLph7zd/github-banner.png" alt="Muhammad Hasnat Anwer Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hi, I'm Muhammad Hasnat Anwer</h1>
 
 <p align="center">
